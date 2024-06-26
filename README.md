@@ -1,6 +1,6 @@
 # Sawang
 A campaign website inviting donations for the Racha community.
-Access the application [here](https://pharadolbrown.github.io/Sawang/)
+Access the application [here](https://pharadol.github.io/Sawang-Campaign-Website/)
 
 **This project is a clone from my previous GitHub repository, gathered here to centralize my various projects.**
 
